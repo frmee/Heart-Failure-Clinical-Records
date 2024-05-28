@@ -1,4 +1,4 @@
-## Heart-Failure-Clinical-Records
+## Heart Failure Clinical Records
 
 ## Problem Statement:
 Using The Key Influencers Visual in Power BI to analyze deadth event based on ejection fraction and serum creatinine, check on what level of these two features that the patients will survive, and compare their relative importance.
